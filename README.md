@@ -12,6 +12,7 @@
 
 [linkedin](https://www.linkedin.com/in/raul-guillermo-manzano-rodriguez/)
 [hotmail]![logo hotmail](https://github.com/RaulManzano1981/RaulManzano1981/assets/120333011/d546d344-e62c-42aa-bbef-b27244e66b97)
+![gmail-icon-logo-9ADB17D3F3-seeklogo com](https://github.com/RaulManzano1981/RaulManzano1981/assets/120333011/c5b9015e-a0dc-4130-b660-81d599ce6396)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black)
