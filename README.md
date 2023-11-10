@@ -10,7 +10,7 @@
 - Starting a new career, and a lot of knowledg to learn
 
 ### How to reach me
-
+<a href="mailto:manrau@gmail.com? target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  width="45"></a>
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/raul-guillermo-manzano-rodriguez/)
 ![Discord](	https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
