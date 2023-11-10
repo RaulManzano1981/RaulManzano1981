@@ -7,10 +7,11 @@
 
 - 🔭 I’m currently working on metallurgical workshop as technical draftsman
 - 🌱 I’m just graduated as Data Analyst in Triple Ten Bootcamp
-- Looking to start a new career
-- 📫 How to reach me
+- Starting a new career, and a lot of knowledg to learn
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+### How to reach me
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/raul-guillermo-manzano-rodriguez/)
 ![Discord](	https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
