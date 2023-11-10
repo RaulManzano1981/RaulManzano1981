@@ -1,4 +1,4 @@
-![python](https://github.com/RaulManzano1981/RaulManzano1981/assets/120333011/6cbe8f54-5432-4cde-a0d6-44c4306e7496)### Hi there 👋 My name is Raúl Manzano
+### Hi there 👋 My name is Raúl Manzano
 
 ![nombre2](https://github.com/RaulManzano1981/RaulManzano1981/assets/120333011/f34057f6-7c28-4a48-87f6-ad5b15e3dc90)
 
