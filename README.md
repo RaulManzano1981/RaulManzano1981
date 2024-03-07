@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on metallurgical workshop as technical draftsman
 - 🌱 I’m just graduated as Data Analyst in Triple Ten Bootcamp
 - Starting a new career, and a lot of knowledg to learn
+- To find in this job line a new passion to do things, innovate every day with my personal marck
 
 ### How to reach me
 
